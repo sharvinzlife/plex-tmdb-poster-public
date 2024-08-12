@@ -3,7 +3,7 @@
 '''
 Description:  Selects the default TMDB poster if no poster is selected
               or the current poster is from Gracenote.
-Author:       /u/SwiftPanda16
+Author:       /u/sharvinzlife
 Requires:     plexapi, python-dotenv
 Usage:
     * Change the posters for an entire library:
